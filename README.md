@@ -2,7 +2,7 @@
 
 ## Overview
 
-Author: Sadia Rahman
+Author: Sadia Rahman <br>
 This project analyzes the relationship between lead exposure, water pH, and infant mortality using statistical methods.
 
 ## Model
